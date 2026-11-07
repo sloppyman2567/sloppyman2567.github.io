@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sloppyman2567.github.io/sitemap.xml
+Sitemap: https://sloppyman2567.github.io/bifrost-emu/sitemap.xml
